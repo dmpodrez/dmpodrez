@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I identify myself as Javascript Developer
+I identify myself as Frontend Developer
 
 Here you can find some of my projects
 
